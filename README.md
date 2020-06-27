@@ -5,5 +5,5 @@
 
 - Web app preview:
 
-![Spam messege detection app](https://github.com/madhubyrapuram/Spam_Email_Predictor/blob/master/spam%20detection.gif)
+![Spam messege detection app](https://github.com/madhubyrapuram/Spam_Email_Predictor/spamdetection.gif)
 
