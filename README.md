@@ -5,5 +5,5 @@
 
 - Web app preview:
 
-![Spam messege detection app](spam detection.gif)
+![Spam messege detection app](spamdetection.gif)
 
