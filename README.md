@@ -6,5 +6,5 @@
 - Web app preview:
 
 ![Spam messege detection app](spamdetection.gif =100x100)
-<img src="spamdetection.gif" width="100" height="100" />
+<img src="spamdetection.gif" width="400" height="300" />
 
