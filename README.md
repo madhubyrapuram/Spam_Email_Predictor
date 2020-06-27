@@ -5,5 +5,8 @@
 
 - Web app preview:
 
-<img src="spamdetection.gif" align="center" width="500" height="500" />
+<p align="center">
+  <img width="500" height="500" src="spamdetection.gif">
+</p>
+
 
